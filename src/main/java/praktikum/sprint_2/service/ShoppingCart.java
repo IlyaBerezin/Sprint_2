@@ -1,7 +1,11 @@
 package praktikum.sprint_2.service;
 
 //импорт интерфейса для доступа к методу
+
 import praktikum.sprint_2.model.Discountable;
+
+//import praktikum.sprint_2.model.Discountable;
+
 //импорт абстрактного класса Food для доступа к методам
 import praktikum.sprint_2.model.Food;
 //импорт переменной из класса Discount
