@@ -1,7 +1,9 @@
 package praktikum.sprint_2.model;
 
 //абстрактный класс с обозначением параметров продуктов
+
 public abstract class Food implements Discountable {
+
     protected int amount; //кол-во продуктов
     protected double price; //цена за товар
     protected boolean isVegetarian; //обозначение вегетарианский или нет
